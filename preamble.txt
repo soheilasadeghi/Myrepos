@@ -1,2 +1,3 @@
 Ill put an intro here
 authors: me collaborator: my supervisor
+we are both from vuw
