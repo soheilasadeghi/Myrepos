@@ -1,1 +1,2 @@
 Ill put an intro here
+authors: me collaborator: my supervisor
