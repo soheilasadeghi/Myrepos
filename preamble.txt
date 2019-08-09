@@ -1,3 +1,4 @@
 Ill put an intro here
-authors: Me, collaborator: my supervisor
-we are both from vuw
+authors: Me, collaborator: My supervisors
+We are both from vuw
+----------------
